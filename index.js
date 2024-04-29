@@ -7,7 +7,7 @@ const token = 'TokeN!'; // Token
 const clientId = 'Bot Id'; // your bot id
 const advertise = true;
 const serverinvite = "discord.gg"; // your server link
-const madeby = ""Make With ❤️ Bacon But Pro | discord.gg/VU7ZA5WCkS "; // change die
+const madeby = "Make With ❤️ Bacon But Pro | discord.gg/VU7ZA5WCkS "; // change die
 const apikey = "E99l9NOctud3vmu6bPne";
 
 const commands = [
